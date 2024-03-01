@@ -1,0 +1,13 @@
+body {
+	margin-top: 10px;
+}
+
+textarea {
+	font-family: "Menlo", "Courier New", Courier, monospace;
+	height: 25vh;
+}
+
+.modal-body {
+	max-height: 60vh;
+	overflow-y: scroll;
+}
